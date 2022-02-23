@@ -1,1 +1,3 @@
-# cobhw2
+---
+permalink: /index.html
+---
